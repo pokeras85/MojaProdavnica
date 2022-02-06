@@ -5,7 +5,7 @@
 
 </head>
 <body>
-<h1> milos</h1>
+  <p> Mojaprodavnica </p>
   <p>Ovo je moj prvi projekat na Githubu</p>
 
 </body>
